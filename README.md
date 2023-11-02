@@ -14,8 +14,7 @@ sudo apt install libtesseract-dev
 brew install tesseract
 
 #Windows
-pacman -S mingw-w64-{i686,x86_64}-tesseract-ocr
-pacman -S mingw-w64-{i686,x86_64}-tesseract-data-eng
+https://github.com/UB-Mannheim/tesseract/wiki#tesseract-installer-for-windows
 ```
 
 ### Set-up project
